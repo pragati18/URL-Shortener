@@ -1,0 +1,51 @@
+/* ==========================================================================
+   custom styles
+   ========================================================================== */
+.footer1{
+  padding: 0px 0 0px 0!important;
+}
+		
+.url_css{
+padding:2%; 
+background:#eee;
+border-radius: 7px;
+height: 54px;
+color:black; 
+width: 69%; 
+box-shadow: 3px 3px 3px grey;
+}
+.my_btn{
+height: 21px;
+   font-size: 10px!important;
+    padding: 0 12px!important;
+    margin-left: 10px;
+    display: inline-block;
+}
+url_css_input{
+color:black;width: 60%;
+}
+@media screen and (max-width:640px) and (min-width: 320px){
+.homepage-style{
+padding-top: 0px!important;
+}
+
+.url_css{
+width: 100%; 
+
+}
+
+.btn_css{
+    margin-top: 5%;
+    margin-left: 30%;
+
+}
+
+h5 {
+    font-size: 2.3rem;
+    margin-bottom: 1rem;
+    margin-left: 5%;
+}
+
+
+
+}

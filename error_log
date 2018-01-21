@@ -1,0 +1,22 @@
+[20-Jan-2018 01:56:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 41
+[20-Jan-2018 01:59:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 41
+[20-Jan-2018 02:00:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$data1' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 41
+[20-Jan-2018 02:01:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 40
+[20-Jan-2018 02:06:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 26
+[20-Jan-2018 02:09:24 America/Chicago] PHP Fatal error:  Call to a member function get_all_url() on null in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 22
+[20-Jan-2018 02:10:38 America/Chicago] PHP Fatal error:  Call to a member function get_all_url() on null in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 22
+[20-Jan-2018 02:11:59 America/Chicago] PHP Fatal error:  Call to a member function get_all_url() on null in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 22
+[20-Jan-2018 02:15:18 America/Chicago] PHP Fatal error:  Call to a member function get_all_url() on null in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 22
+[20-Jan-2018 02:15:48 America/Chicago] PHP Fatal error:  Call to a member function get_all_url() on null in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 22
+[20-Jan-2018 02:16:30 America/Chicago] PHP Fatal error:  Call to a member function get_all_url() on null in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 22
+[20-Jan-2018 02:18:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'pubilc' (T_STRING), expecting function (T_FUNCTION) in /home3/bhokay/public_html/sandbox2/application/controllers/Shorten.php on line 26
+[20-Jan-2018 02:46:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/bhokay/public_html/sandbox2/application/views/get_url.php on line 195
+[20-Jan-2018 03:17:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'long_url' (T_STRING) in /home3/bhokay/public_html/sandbox2/application/models/Short_url_model.php on line 48
+[20-Jan-2018 09:01:34 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::orderby() in /home3/bhokay/public_html/sandbox2/application/models/Short_url_model.php on line 51
+[20-Jan-2018 09:09:03 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::last() in /home3/bhokay/public_html/sandbox2/application/models/Short_url_model.php on line 54
+[20-Jan-2018 11:03:07 America/Chicago] PHP Parse error:  syntax error, unexpected '"."' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/bhokay/public_html/sandbox2/application/views/get_url.php on line 233
+[20-Jan-2018 11:39:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/bhokay/public_html/sandbox2/application/views/get_url.php on line 287
+[20-Jan-2018 20:36:12 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home3/bhokay/public_html/sandbox2/application/models/Short_url_model.php on line 67
+[20-Jan-2018 20:36:32 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home3/bhokay/public_html/sandbox2/application/models/Short_url_model.php on line 67
+[20-Jan-2018 20:37:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/bhokay/public_html/sandbox2/application/models/Short_url_model.php on line 66
+[20-Jan-2018 20:38:34 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/bhokay/public_html/sandbox2/application/models/Short_url_model.php on line 66
